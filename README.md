@@ -1,7 +1,5 @@
 # HAR-IMU-Classification (WIP)
-Human Activity Recognition Using Smartphone IMU Signals.
-
-- Classify activities such as walking, sitting, standing and lying from accelerometer and gyroscope data.	
+Human Activity Recognition Using Smartphone IMU Signals. Classify activities such as walking, sitting, standing and lying from accelerometer and gyroscope data.	
 
 Algorithms to be used: KNN; SVM; Random Forest; Bayes; HMM.
 Libraries to be used: Scikit-learn + PyTorch + NumPy.
