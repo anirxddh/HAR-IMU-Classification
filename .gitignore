@@ -1,0 +1,9 @@
+human+activity+recognition+using+smartphones/*.names
+human+activity+recognition+using+smartphones/**/Inertial Signals/*.txt
+human+activity+recognition+using+smartphones/**/train/*.txt
+human+activity+recognition+using+smartphones/**/test/*.txt
+human+activity+recognition+using+smartphones/**/.DS_Store
+
+har_outputs/models
+
+HAR_ML.docx
