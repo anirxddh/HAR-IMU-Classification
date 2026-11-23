@@ -1,0 +1,5 @@
+Model,Baseline F1,Tuned F1,Best settings,Combos tried
+KNN,0.8745436802621415,0.8851088188061272,"{'n_neighbors': 15, 'weights': 'distance', 'pca': 'passthrough'}",16
+SVM,0.9333077299161842,0.9428394224808821,"{'C': 10, 'gamma': 0.001, 'kernel': 'rbf', 'pca': 'passthrough'}",16
+Random Forest,0.9300336120747105,0.9312247270769612,"{'max_depth': None, 'n_estimators': 300}",4
+Naive Bayes,0.6513917514306553,0.7924955981578311,"{'var_smoothing': 1e-09, 'pca': 'PCA-95%'}",6
